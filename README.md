@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" width="500px">
   
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Yutty Akiko!
+# Hi <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" width="30px">, I’m Yutty Akiko!
 
 <p>👨‍🎓 Systems Analysis and Development student at school <a href="https://mooca.sp.senai.br/">SENAI "Morvan Figueiredo"</a></p>
 <p>💞️ Looking to collaborate with people who are also learning to develop systems</p>
