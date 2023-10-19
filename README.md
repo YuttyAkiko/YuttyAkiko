@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" width="500px">
-  
-# Hi 👋, I’m Yutty Akiko!
+
+<h1>Hi 👋, I’m Yutty Akiko!</h1>
 
 <p>👨‍🎓 Systems Analysis and Development student at school <a href="https://mooca.sp.senai.br/">SENAI "Morvan Figueiredo"</a></p>
 <p>💞️ Looking to collaborate with people who are also learning to develop systems</p>
@@ -9,7 +9,7 @@
 
 <br>
 
-## 🚀 Developing my skills in...
+<h2>🚀 Developing my skills in...</h2>
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><!-- HTML5 -->
@@ -27,7 +27,16 @@
 
 <br>
 
-## 🙋‍♀️ Contact with me: 
+<div align="center">
+  <a href="https://github.com/YuttyAkiko">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YuttyAkiko&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuttyAkiko&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+<br>
+ 
+<h3>🙋‍♀️ Contact with me: </h3>
 
   <nav>
     <a href="https://www.linkedin.com/in/yutty-akiko/" target="_blank"><!-- LinkedIn -->
