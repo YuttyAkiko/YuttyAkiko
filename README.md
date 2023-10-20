@@ -7,6 +7,7 @@
 <p>💞️ Looking to collaborate with people who are also learning to develop systems</p>
 <p>👀 Interested in creative projects</p>
 
+
 <br>
 
 <h2>🚀 Developing my skills in...</h2>
@@ -32,6 +33,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YuttyAkiko&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuttyAkiko&layout=compact&langs_count=7&theme=dracula"/>
   </a>
+  <img src="https://im2.ezgif.com/tmp/ezgif-2-7ff4001872.gif" width="150px">
 </div>
 
 <br>
