@@ -30,8 +30,8 @@
 
 <div align="center">
   <a href="https://github.com/YuttyAkiko">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YuttyAkiko&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuttyAkiko&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=YuttyAkiko&show_icons=true&theme=dracula"/>
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuttyAkiko&layout=compact&langs_count=7&theme=dracula"/>
   </a>
   <img src="https://im2.ezgif.com/tmp/ezgif-2-ba65e9f163.gif" width="150px">
 </div>
