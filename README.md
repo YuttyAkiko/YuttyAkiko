@@ -33,7 +33,6 @@
     <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=YuttyAkiko&show_icons=true&theme=dracula"/>
     <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuttyAkiko&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-  <img src="https://im2.ezgif.com/tmp/ezgif-2-ba65e9f163.gif" width="150px">
 </div>
 
 <br>
